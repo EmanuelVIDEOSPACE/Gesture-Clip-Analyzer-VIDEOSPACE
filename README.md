@@ -5,7 +5,7 @@ It exports a structured **`markers.json`** with precise timecodes, labels, and (
 
 > VIDEOSPACE uses this tool in production for **AI-driven video post-production** (gesture-based editing, voiceover sync, fast rough-cut).
 
-Copywrite by VIDEOSPACE AI Agency
+Created by VIDEOSPACE, an AI video production agency
 https://videospace.pl
 
 ---
